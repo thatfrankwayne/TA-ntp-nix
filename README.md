@@ -8,7 +8,7 @@ Copyright &copy; 2016-2024 Frank Wayne
 
 ## Purpose
 
-The NTP Statistics Add-on for Splunk allows a Splunk® Enterprise administrator to index NTP v4 monitoring log data with proper timestamps, and perform detailed field extractions and calculations. If you have more than a casual interest in NTP, this Add-on will help you analyze NTP monitoring sets with greater ease than was ever before possible.
+The NTP Statistics Add-on for Splunk allows a Splunk&trade; Enterprise administrator to index NTP v4 monitoring log data with proper timestamps, and perform detailed field extractions and calculations. If you have more than a casual interest in NTP, this Add-on will help you analyze NTP monitoring sets with greater ease than was ever before possible.
 
 ## Prerequisites and Dependencies
 
