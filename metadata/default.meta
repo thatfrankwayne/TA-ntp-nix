@@ -1,0 +1,25 @@
+
+[]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
+owner = admin
+
+[transforms/iana_ntp_refid_codes]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
+owner = admin
+
+[transforms/ntp_leap_warning]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
+owner = admin
+
+[transforms/ntp_modes]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
+owner = admin
+
+[transforms/ntp_strata]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
+owner = admin

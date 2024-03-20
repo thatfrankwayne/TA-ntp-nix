@@ -1,0 +1,5 @@
+leap_warning,leap_warning_text
+0,no warning
+1,last minute of the day has 61 seconds
+2,last minute of the day has 59 seconds
+3,unknown (clock unsynchronized)
