@@ -12,7 +12,7 @@ The NTP Statistics Add-on for Splunk allows a Splunk&trade; Enterprise administr
 
 ## Prerequisites and Dependencies
 
-Detailed documentation, including installation, troubleshooting and release notes, is available online in [PDF format](https://tinyurl.com/y45uhu5d).
+Detailed documentation, including installation, troubleshooting and release notes, is available online in [PDF format](https://github.com/thatfrankwayne/TA-ntp-nix/blob/main/docs/ntp_statistics_add-on_for_splunk_2.0.1.pdf).
 
 ### Forwarders
 
